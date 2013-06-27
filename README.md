@@ -1,9 +1,30 @@
 dodhackathon
 ============
 
-Combat Feeding Ration Data for Department of Defense
+## Combat Feeding Ration Data for Department of Defense
 
-## Get a Kinvey account
+
+FDA Label Guidelines:
+
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm064904.htm
+
+FDA % Daily Values:
+
+http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm064928.htm
+
+
+Combat Ration Fact Sheets:
+
+http://nsrdec.natick.army.mil/media/print/OP_Rations.pdf
+
+http://nsrdec.natick.army.mil/media/fact/food/FSR.pdf
+
+http://nsrdec.natick.army.mil/media/fact/food/mcw_lrp.pdf
+
+http://nsrdec.natick.army.mil/media/fact/food/mre.pdf
+
+
+## To get a Kinvey account
 
 1. Go to http://console.kinvey.com
 * Sign up. It should look something like this: ![signup image](4.png)
